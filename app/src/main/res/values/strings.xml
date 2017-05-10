@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">HotStock</string>
+    <string name="username">username</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="role">Role</string>
+    <string name="submit">submit</string>
+    <string name="buy">Buy</string>
+    <string name="transfer">Transfer</string>
+    <string name="internet_not_connected">Please check you internet connection</string>
+    <string name="title_activity_admin">AdminActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="stock_id">stock id</string>
+    <string name="symbol">Symbol</string>
+    <string name="total_qty">Total qty</string>
+    <string name="base_price">Base Price</string>
+    <string name="title_activity_stock_distribution">StockDistributionActivity</string>
+    <string name="total_quantity">Total quantity</string>
+    <string name="transfer_quantity">Transfer Quantity</string>
+    <string name="stock_id_key">stock_id</string>
+    <string name="stock_qty_key">stock_qty</string>
+    <string name="stock_price_key">stock_price</string>
+    <string name="notification">Notification</string>
+    <string name="accept">Accept</string>
+    <string name="user_registered">Successfully Registered please login</string>
+    <string name="shared_pref">time</string>
+    <string name="date_key">date</string>
+    <string name="trade_report">Trade Report</string>
+    <string name="buyer">Buyer</string>
+    <string name="seller">Seller</string>
+    <string name="qty">qty</string>
+    <string name="price">price</string>
+</resources>
